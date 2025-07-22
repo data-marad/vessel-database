@@ -1,5 +1,5 @@
 # vessel-database
-An open source guide to creating a database of vessels.
+An open source guide to creating a database of vessels. 
 
 ┌──────────────────────────────────────────────────────────────┐
 │  LOGO        Vessel Data Workbook                            │
